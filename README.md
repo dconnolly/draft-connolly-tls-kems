@@ -2,10 +2,10 @@
 
 This is the working area for the individual Internet-Draft, "Key Encapsulation Mechanisms for TLS 1.3".
 
-* [Editor's Copy](https://dconnolly.github.io/draft-connolly-tls-kems/#go.draft-connolly-tls-mlkem-key-exchange.html)
+* [Editor's Copy](https://dconnolly.github.io/draft-connolly-tls-kems/#go.draft-connolly-tls-kems.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-connolly-tls-kems)
 * [Individual Draft](https://datatracker.ietf.org/doc/html/draft-connolly-tls-kems)
-* [Compare Editor's Copy to Individual Draft](https://dconnolly.github.io/draft-connolly-tls-kems/#go.draft-connolly-tls-mlkem-key-exchange.diff)
+* [Compare Editor's Copy to Individual Draft](https://dconnolly.github.io/draft-connolly-tls-kems/#go.draft-connolly-tls-kems.diff)
 
 
 ## Contributing
